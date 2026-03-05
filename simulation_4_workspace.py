@@ -1,6 +1,10 @@
 """
 Simulation 4: Workspace Analysis and Visualization
 Analyzes and visualizes the robot's reachable workspace
+
+Author: BESLI SAUT MARITO PAKPAHAN
+Course: SEMS6 - Legged Robot
+Date: March 2026
 """
 
 import numpy as np

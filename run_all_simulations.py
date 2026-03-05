@@ -1,6 +1,10 @@
 """
 Run All Simulations
 Executes all 4 simulation scripts sequentially
+
+Author: BESLI SAUT MARITO PAKPAHAN
+Course: SEMS6 - Legged Robot
+Date: March 2026
 """
 
 import subprocess

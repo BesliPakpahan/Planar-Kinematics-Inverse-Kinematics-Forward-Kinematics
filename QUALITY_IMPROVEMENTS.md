@@ -1,5 +1,11 @@
 # PENINGKATAN KUALITAS VISUAL - SUMMARY
 
+**Author: BESLI SAUT MARITO PAKPAHAN**  
+*SEMS6 - Legged Robot Course*  
+*Date: March 5, 2026*
+
+---
+
 ## ✨ Perubahan yang Dilakukan
 
 ### 1. GARIS LEBIH TEBAL

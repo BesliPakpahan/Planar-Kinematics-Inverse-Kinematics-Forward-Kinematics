@@ -1,6 +1,10 @@
 """
 Simulation 3: Advanced Trajectory Following
 Demonstrates smooth trajectory following with different path types
+
+Author: BESLI SAUT MARITO PAKPAHAN
+Course: SEMS6 - Legged Robot
+Date: March 2026
 """
 
 import numpy as np

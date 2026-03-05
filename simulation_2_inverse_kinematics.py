@@ -1,6 +1,10 @@
 """
 Simulation 2: Inverse Kinematics Demonstration
 Shows how to reach target positions using IK
+
+Author: BESLI SAUT MARITO PAKPAHAN
+Course: SEMS6 - Legged Robot
+Date: March 2026
 """
 
 import numpy as np

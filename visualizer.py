@@ -2,6 +2,10 @@
 Visualization module for planar 4-link robot
 Handles rendering, animation, and saving to video/images
 IMPROVED VERSION - Higher quality visuals
+
+Author: BESLI SAUT MARITO PAKPAHAN
+Course: SEMS6 - Legged Robot
+Date: March 2026
 """
 
 import numpy as np

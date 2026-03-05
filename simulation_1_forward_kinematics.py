@@ -1,6 +1,10 @@
 """
 Simulation 1: Forward Kinematics Demonstration
 Shows how changing joint angles affects end-effector position
+
+Author: BESLI SAUT MARITO PAKPAHAN
+Course: SEMS6 - Legged Robot
+Date: March 2026
 """
 
 import numpy as np

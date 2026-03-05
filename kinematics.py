@@ -1,6 +1,10 @@
 """
 Planar 4-Link Robot Kinematics Module
 Implements Forward Kinematics (FK) and Inverse Kinematics (IK)
+
+Author: BESLI SAUT MARITO PAKPAHAN
+Course: SEMS6 - Legged Robot
+Date: March 2026
 """
 
 import numpy as np

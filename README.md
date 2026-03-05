@@ -1,8 +1,28 @@
 # 4-Link Planar Robot Kinematics Simulation
 
+**Author: BESLI SAUT MARITO PAKPAHAN**  
+*SEMS6 - Legged Robot Course*
+
+---
+
 A comprehensive simulation suite for a 4-link planar robot arm, featuring forward kinematics, inverse kinematics, trajectory following, and workspace analysis.
 
-![Robot Animation](outputs/fk_animation_all_joints.mp4)
+## 🎥 Demos & Animations
+
+### Forward Kinematics - All Joints Moving
+![Forward Kinematics Animation](outputs/gifs/fk_animation_all_joints.gif)
+
+### Inverse Kinematics - Circle Trajectory
+![IK Circle Animation](outputs/gifs/ik_animation_circle.gif)
+
+### Trajectory Following - Heart Shape
+![Heart Trajectory](outputs/gifs/trajectory_heart.gif)
+
+### Trajectory Following - Spiral Pattern
+![Spiral Trajectory](outputs/gifs/trajectory_spiral.gif)
+
+### Trajectory Following - Star Pattern
+![Star Trajectory](outputs/gifs/trajectory_star.gif)
 
 ## 📋 Features
 
@@ -304,7 +324,10 @@ If you run out of memory:
 
 ## 👨‍💻 Author
 
-Created for the Legged Robot course (SEMS6)
+**BESLI SAUT MARITO PAKPAHAN**
+
+Created for the Legged Robot course (SEMS6)  
+Date: March 2026
 
 ## 📄 License
 
