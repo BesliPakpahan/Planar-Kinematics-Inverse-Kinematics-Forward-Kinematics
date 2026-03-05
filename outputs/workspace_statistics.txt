@@ -1,0 +1,14 @@
+WORKSPACE ANALYSIS STATISTICS
+============================================================
+
+Robot Configuration:
+  Link lengths: [1.0, 1.0, 0.8, 0.6]
+
+Workspace Statistics:
+  Total Samples: 4096
+  Mean Distance from Base: 1.395
+  Std Distance from Base: 0.724
+  Min Distance: 0.200
+  Max Distance: 3.315
+  X Range: [-3.242, 3.222]
+  Y Range: [-3.315, 3.315]
